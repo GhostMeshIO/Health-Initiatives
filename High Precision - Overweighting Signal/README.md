@@ -1,10 +1,3 @@
-Here is a README.md file for the `High Precision - Overweighting Signal` folder. It introduces the core concept, lists the disorders covered, and explains how the 48 insights are structured, linking them back to the unified frameworks.
-
----
-
-### README.md
-
-```markdown
 # High Precision (Overweighting Signal) - Clinical & Research Insights
 
 This directory contains a focused exploration of neuropsychiatric disorders characterized by a shared computational dysfunction: **pathologically high precision weighting (𝒫 > +1.5)**.
@@ -62,4 +55,3 @@ This is a living document. Future work will involve:
 
 We invite researchers and clinicians to explore these ideas and contribute to their development and empirical testing.
 
----
